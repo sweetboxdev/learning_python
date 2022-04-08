@@ -1,0 +1,10 @@
+X-DSPAM-Confidence: 1.5
+X-DSPAM-Confidence: 1.5
+X-DSPAM-Confidence: 1.5
+X-DSPAM-Confidence: 1.5
+X-DSPAM-Confidence: 1.5
+X-DSPAM-Confidence: 1.5
+X-DSPAM-Confidence: 0.7559
+X-DSPAM-Confidence: 0.7559
+X-DSPAM-Confidence: 0.7559
+X-DSPAM-Confidence: 0.7559 
